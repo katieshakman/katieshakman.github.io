@@ -98,9 +98,9 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: center
         title: Columbia University
-        sub_title: PhD in Neuroscience (Neurobiology & Behavior)
+        sub_title: PhD in Neuroscience 
         caption: September 2011 - May 2018 
         quote: >
           Department of Neuroscience, Columbia University in the City of New York
