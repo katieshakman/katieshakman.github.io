@@ -118,7 +118,7 @@ content:
     layout: list
     content: 
       - layout: center
-#         title: Download Resume (PDF)
+        title: Download Resume (PDF)
         link: https://github.com/katieshakman/katieshakman.github.io/raw/main/images/Katie_Shakman_Resume_20210417.pdf
         link text: Download Resume (PDF)
 
