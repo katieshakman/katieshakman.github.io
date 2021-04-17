@@ -99,13 +99,13 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: Columbia University
+        sub_title: PhD in Neuroscience (Neurobiology & Behavior)
+        caption: September 2011 - May 2018 
         quote: >
-          Short institution or course description (optional)
+          Department of Neuroscience, Columbia University in the City of New York
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Dissertation: Cross-compartmental modulation and plasticity in the Drosophila mushroom body
 #   - title: A Little More About Me
 #     layout: text
 #     content: | # this will include new lines to allow paragraphs
