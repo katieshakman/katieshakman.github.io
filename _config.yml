@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Katherine (Katie) Shakman
+name: Katherine (Katie) Shakman, PhD
 title: Field Data Scientist
 email: katieshak@gmail.com
 # email_title: Email (Email title override)
@@ -53,13 +53,8 @@ github_username:  katieshakman
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Google Profile Picture.png #insight-headshot-linkedin-version.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+ I empower data science teams across a variety of industries to implement advanced solutions. My background is in health data science and neuroscience, and I believe computational tools will transform the way we interact with our world and each other, and particularly the healthcare and life sciences landscape. I am working to help make that transformation benefit society. In my doctoral research I utilized neural imaging and behavioral analysis to study interactions between neural circuits regulating attention and memory in insects. I employ my skills in experimental design, problem solving, project management, analytics, machine learning, data visualization and technical communication to impact the future of technology. 
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    #- Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
