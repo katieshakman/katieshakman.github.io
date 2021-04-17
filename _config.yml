@@ -87,14 +87,14 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Domino Data Lab
+        sub_title: Field Data Scientist
+        caption: May 2020 - Present (eg. November 2016 - present)
+        link: dominodatalab.com
         quote: >
-          Short description of the company (optional)
+          Domino's enterprise MLOps platform accelerates research, speeds model deployment, and increases collaboration for code-first data science teams at scale.
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          I partner with data scientists at our customers to assist with data science projects from end to end, in as much depth as is needed to ensure the success of their projects.  
   - title: Education
     layout: list
     content:
