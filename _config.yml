@@ -60,6 +60,16 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
+  - title: Skills 
+    layout: list 
+    content: 
+     - layout: left
+     title: Programming Languages and Tools 
+     description: | 
+     Python, R, MATLAB, MQL (MongoDB), SQL, Bash, Pandas, Numpy, Ray, Spark, Horovod, Matplotlib, Seaborn, Scikit-learn, Torch, Tensorflow/Keras, AWS, PyMongo, Git, Unix
+# Scientific: Experimental design, statistical analysis, data visualization, technical communication
+# Machine Learning and Algorithms: Linear and logistic regression, decision trees and random forest, k- nearest neighbors, support vector machines, k-means clustering, principal components analysis and dimensionality reduction, neural networks, natural language processing 
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -101,12 +111,12 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+#   - title: A Little More About Me
+#     layout: text
+#     content: | # this will include new lines to allow paragraphs
+#       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+#       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
