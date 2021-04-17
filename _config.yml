@@ -87,18 +87,17 @@ content:
           Collaboration to optimize and accelerate training of an image recognition model using Spark, Horovod, and Ray.io Tune on the Domino platform.
           About Domino: Domino's enterprise MLOps platform accelerates research, speeds model deployment, and increases collaboration for code-first data science teams at scale.
       - layout: center
-        title: Accelerating Model Training and Hyperparameter Optimization on Multiple Nvidia GPUs with Distributed Computing on Domino 
-        link: https://www.dominodatalab.com/resources/how-janssen-r-d-accelerated-model-training-on-multi-gpu-machines-for-faster-cancer-cell-identification/
-        link_text: How Janssen R&D Accelerated Model Training on Multi-GPU Machines for Faster Cancer Cell Identification
-        additional_links:
-          - title:  Conference Talk LinkedIn Announcement 
-            icon: fab fa-linkedin
-            url: https://www.linkedin.com/posts/katherine-shakman_gtc20-computervision-jnjdatascience-activity-6720000143309074432-WmOl
-#         quote: >
-#           Collaboration to optimize and accelerate training of an image recognition model using Spark, Horovod, and Ray.io Tune on the Domino platform.  
+        title: Therapulse: Predicting Patient Distress Levels  
+#         link: https://www.dominodatalab.com/resources/how-janssen-r-d-accelerated-model-training-on-multi-gpu-machines-for-faster-cancer-cell-identification/
+#         link_text: How Janssen R&D Accelerated Model Training on Multi-GPU Machines for Faster Cancer Cell Identification
+#         additional_links:
+#           - title:  Conference Talk LinkedIn Announcement 
+#             icon: fab fa-linkedin
+#             url: https://www.linkedin.com/posts/katherine-shakman_gtc20-computervision-jnjdatascience-activity-6720000143309074432-WmOl
+        quote: >
+          Project is not public.  Details available upon request.  
         description: | 
-          Collaboration to optimize and accelerate training of an image recognition model using Spark, Horovod, and Ray.io Tune on the Domino platform.
-          About Domino: Domino's enterprise MLOps platform accelerates research, speeds model deployment, and increases collaboration for code-first data science teams at scale.
+          Consulted for Therachat, an app that helps therapista and patients connect in between sessions.  I built TheraPulse, a tool for predicting patients’ symptom severity, using NLP, SVM, Random Forest, and grid search hyperparameter optimization.  The final product was a Dash web app which would predict a user's distress level for the following week.
      
   - title: Experience
     layout: list
