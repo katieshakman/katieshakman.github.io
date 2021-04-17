@@ -118,9 +118,9 @@ content:
     layout: list
     content: 
       - layout: center
-        title: Download Resume (PDF)
+        title: Download Resume 
         link: https://github.com/katieshakman/katieshakman.github.io/raw/main/images/Katie_Shakman_Resume_20210417.pdf
-        link text: Download Resume (PDF)
+        link text: Download Resume 
 
 #       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
