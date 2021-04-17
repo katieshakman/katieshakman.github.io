@@ -81,8 +81,10 @@ content:
           - title:  Conference Talk LinkedIn Announcement 
             icon: fab fa-linkedin
             url: https://www.linkedin.com/posts/katherine-shakman_gtc20-computervision-jnjdatascience-activity-6720000143309074432-WmOl
-        quote: >
-          Collaboration to optimize and accelerate training of an image recognition model using Spark, Horovod, and Ray.io Tune on the Domino platform.  
+#         quote: >
+#           Collaboration to optimize and accelerate training of an image recognition model using Spark, Horovod, and Ray.io Tune on the Domino platform.  
+        description: | 
+          Collaboration to optimize and accelerate training of an image recognition model using Spark, Horovod, and Ray.io Tune on the Domino platform.
   - title: Experience
     layout: list
     content:
@@ -102,9 +104,10 @@ content:
         title: Columbia University
         sub_title: PhD in Neuroscience 
         caption: September 2011 - May 2018 
-        quote: >
-          Department of Neuroscience, Columbia University in the City of New York
+#         quote: >
+#           Department of Neuroscience, Columbia University in the City of New York
         description: | # this will include new lines to allow paragraphs
+          Department of Neuroscience, Columbia University in the City of New York. 
           Dissertation: Cross-compartmental modulation and plasticity in the Drosophila mushroom body
 #   - title: A Little More About Me
 #     layout: text
