@@ -73,7 +73,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: center
         title: Accelerating Model Training and Hyperparameter Optimization on Multiple Nvidia GPUs with Distributed Computing on Domino 
         link: https://www.dominodatalab.com/resources/how-janssen-r-d-accelerated-model-training-on-multi-gpu-machines-for-faster-cancer-cell-identification/
         link_text: How Janssen R&D Accelerated Model Training on Multi-GPU Machines for Faster Cancer Cell Identification
@@ -86,7 +86,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: center
         title: Domino Data Lab
         sub_title: Field Data Scientist
         caption: May 2020 - Present (eg. November 2016 - present)
