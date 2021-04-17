@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Katherine (Katie) Shakman, PhD
+name: Katherine Shakman, PhD
 title: Field Data Scientist
 email: katieshak@gmail.com
 # email_title: Email (Email title override)
