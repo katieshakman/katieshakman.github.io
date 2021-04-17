@@ -87,7 +87,7 @@ content:
           Collaboration to optimize and accelerate training of an image recognition model using Spark, Horovod, and Ray.io Tune on the Domino platform.
           About Domino: Domino's enterprise MLOps platform accelerates research, speeds model deployment, and increases collaboration for code-first data science teams at scale.
       - layout: center
-        title: Therapulse: Predicting Patient Distress Levels  
+        title: Therapulse - Predicting Patient Distress Levels  
 #         link: https://www.dominodatalab.com/resources/how-janssen-r-d-accelerated-model-training-on-multi-gpu-machines-for-faster-cancer-cell-identification/
 #         link_text: How Janssen R&D Accelerated Model Training on Multi-GPU Machines for Faster Cancer Cell Identification
 #         additional_links:
