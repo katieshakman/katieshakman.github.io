@@ -98,10 +98,20 @@ content:
           Consulted for Therachat, a company that helps therapists and patients connect in between talk therapy sessions.  I built TheraPulse, a tool for predicting patients’ symptom severity, using NLP, SVM, Random Forest, and grid search hyperparameter optimization.  The final product was a Dash web app which would predict a user's distress level for the following week.
         quote: >
           Project is not public.  Details available upon request.  
-  - title: Experience
-    layout: list
-    content:
       - layout: center
+        title: Domino Data Lab
+        sub_title: Field Engineer/Customer Success Engineer 
+        caption: October 2018 - May 2020 
+        link: dominodatalab.com
+#         quote: >
+#           Domino's enterprise MLOps platform accelerates research, speeds model deployment, and increases collaboration for code-first data science teams at scale.
+        description: | # this will include new lines to allow paragraphs
+          I partner with data scientists at our customers to assist with data science projects from end to end, in as much depth as is needed to ensure the success of their projects.  
+          -	Co-conceived, piloted, and built out the data science advisory team within professional services 
+          -	Collaborated on implementation and optimization of a distributed deep learning model for tumor detection in whole slide images, resulting in a conference talk at Nvidia GTC 2020
+          -	Contributed design and implementation of a solution for online ML from streams 
+        
+        - layout: center
         title: Domino Data Lab
         sub_title: Field Data Scientist
         caption: May 2020 - Present 
@@ -109,7 +119,12 @@ content:
 #         quote: >
 #           Domino's enterprise MLOps platform accelerates research, speeds model deployment, and increases collaboration for code-first data science teams at scale.
         description: | # this will include new lines to allow paragraphs
-          I partner with data scientists at our customers to assist with data science projects from end to end, in as much depth as is needed to ensure the success of their projects.  
+          Empowered data science teams to work more efficiently, collaboratively, and reproducibly.  
+          - Educated data science leaders and teams in data science best practices on Domino data science platform.
+          -	Engineered solutions to customers’ technical issues, from environment design to model deployment.
+          -	Produce tools to enhance the efficiency of the customer success team.
+
+ 
   - title: Education
     layout: list
     content:
