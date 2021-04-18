@@ -70,7 +70,7 @@ content:
           
           **Scientific**: Experimental design\*, statistical analysis\*, data visualization\*, technical communication\*
           
-          **Machine Learning and Algorithms**: Linear and logistic regression\*, decision trees and random forest\*, k- nearest neighbors, support vector machines, k-means clustering, principal components analysis and dimensionality reduction, neural networks, natural language processing, collaborative filtering
+          **Machine Learning and Algorithms**: Linear and logistic regression\*, decision trees and random forest\*, k- nearest neighbors, support vector machines\*, k-means clustering, principal components analysis and dimensionality reduction, neural networks, natural language processing, collaborative filtering
           
           \* = most experience
 
@@ -206,7 +206,7 @@ content:
     content: 
       - layout: center
         title: Download Resume 
-        link: https://github.com/katieshakman/katieshakman.github.io/raw/main/images/Katie_Shakman_Resume_20210417.pdf
+        link: images/Katie_Shakman_Resume_20210417.pdf # https://github.com/katieshakman/katieshakman.github.io/raw/main/images/Katie_Shakman_Resume_20210417.pdf
         link text: Download Resume 
 
 #       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
