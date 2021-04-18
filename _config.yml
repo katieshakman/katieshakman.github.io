@@ -66,7 +66,11 @@ content:
       - layout: left
         title: Programming Languages and Tools
         description: | # this will include new lines to allow paragraphs
-          Python, R, MATLAB, MQL (MongoDB), SQL, Bash, Pandas, Numpy, Ray, Spark, Horovod, Matplotlib, Seaborn, Scikit-learn, Torch, Tensorflow/Keras, AWS, PyMongo, Git, Unix
+          Programming Languages and Tools: Python*, R, MATLAB*, MongoDB*, SQL, PyMongo, Bash, Pandas*, Numpy, Ray, Spark, Seaborn, Scikit-learn*, Torch, Tensorflow/Keras, AWS*, Unix*, Docker, Kubernetes, Git
+          Scientific: Experimental design*, statistical analysis*, data visualization*, technical communication*
+          Machine Learning and Algorithms: Linear and logistic regression*, decision trees and random forest*, k- nearest neighbors, support vector machines, k-means clustering, principal components analysis and dimensionality reduction, neural networks, natural language processing, collaborative filtering
+          * = most experience
+
 # Scientific: Experimental design, statistical analysis, data visualization, technical communication
 # Machine Learning and Algorithms: Linear and logistic regression, decision trees and random forest, k- nearest neighbors, support vector machines, k-means clustering, principal components analysis and dimensionality reduction, neural networks, natural language processing 
 
