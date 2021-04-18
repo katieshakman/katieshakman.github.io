@@ -114,8 +114,7 @@ content:
           -	Co-conceived, piloted, and built out the data science advisory team within professional services. 
           -	Collaborated on implementation and optimization of a distributed deep learning model for tumor detection in whole slide images, resulting in a conference talk at Nvidia GTC 2020.
           -	Contributed design and implementation of a solution for online ML from streams. 
-        
-        - layout: center
+      - layout: center
         title: Domino Data Lab
         sub_title: Field Engineer/Customer Success Engineer
         caption: October 2018 - May 2020 
@@ -127,8 +126,6 @@ content:
           - Educated data science leaders and teams in data science best practices on Domino data science platform.
           -	Engineered solutions to customers’ technical issues, from environment design to model deployment.
           -	Produce tools to enhance the efficiency of the customer success team.
-
- 
   - title: Education
     layout: list
     content:
