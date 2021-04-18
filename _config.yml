@@ -100,21 +100,21 @@ content:
           Project is not public.  Details available upon request.  
       - layout: center
         title: Domino Data Lab
-        sub_title: Field Engineer/Customer Success Engineer 
-        caption: October 2018 - May 2020 
+        sub_title: Field Data Scientist 
+        caption: May 2020 - Present
         link: dominodatalab.com
 #         quote: >
 #           Domino's enterprise MLOps platform accelerates research, speeds model deployment, and increases collaboration for code-first data science teams at scale.
         description: | # this will include new lines to allow paragraphs
           I partner with data scientists at our customers to assist with data science projects from end to end, in as much depth as is needed to ensure the success of their projects.  
-          -	Co-conceived, piloted, and built out the data science advisory team within professional services 
-          -	Collaborated on implementation and optimization of a distributed deep learning model for tumor detection in whole slide images, resulting in a conference talk at Nvidia GTC 2020
-          -	Contributed design and implementation of a solution for online ML from streams 
+          -	Co-conceived, piloted, and built out the data science advisory team within professional services. 
+          -	Collaborated on implementation and optimization of a distributed deep learning model for tumor detection in whole slide images, resulting in a conference talk at Nvidia GTC 2020.
+          -	Contributed design and implementation of a solution for online ML from streams. 
         
         - layout: center
         title: Domino Data Lab
-        sub_title: Field Data Scientist
-        caption: May 2020 - Present 
+        sub_title: Field Engineer/Customer Success Engineer
+        caption: October 2018 - May 2020 
         link: dominodatalab.com
 #         quote: >
 #           Domino's enterprise MLOps platform accelerates research, speeds model deployment, and increases collaboration for code-first data science teams at scale.
