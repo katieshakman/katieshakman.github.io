@@ -179,10 +179,21 @@ content:
         description: | # this will include new lines to allow paragraphs
           Department of Neuroscience, Columbia University in the City of New York. 
           Dissertation: Cross-compartmental modulation and plasticity in the Drosophila mushroom body
+      - layout: center
+        title: California Institute of Technology (Caltech)
+        sub_title: BS in Biology
+        caption: May 2011
+#         quote: >
+#           Department of Neuroscience, Columbia University in the City of New York
+        # description: | # this will include new lines to allow paragraphs
+        #   Department of Neuroscience, Columbia University in the City of New York. 
+        #   Dissertation: Cross-compartmental modulation and plasticity in the Drosophila mushroom body
+
 #   - title: A Little More About Me
 #     layout: text
 #     content: | # this will include new lines to allow paragraphs
 #       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  
   - title: Resume
     layout: list
     content: 
