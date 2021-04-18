@@ -98,6 +98,10 @@ content:
           Consulted for Therachat, a company that helps therapists and patients connect in between talk therapy sessions.  I built TheraPulse, a tool for predicting patients’ symptom severity, using NLP, SVM, Random Forest, and grid search hyperparameter optimization.  The final product was a Dash web app which would predict a user's distress level for the following week.
         quote: >
           Project is not public.  Details available upon request.  
+  
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
       - layout: center
         title: Domino Data Lab
         sub_title: Field Data Scientist 
