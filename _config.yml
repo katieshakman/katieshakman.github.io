@@ -126,6 +126,47 @@ content:
           - Educated data science leaders and teams in data science best practices on Domino data science platform.
           -	Engineered solutions to customers’ technical issues, from environment design to model deployment.
           -	Produce tools to enhance the efficiency of the customer success team.
+      - layout: center
+        title: Insight Data Science
+        sub_title: Health Data Science Fellow 
+        caption: June 2018 - September 2018 
+        link: https://insightfellows.com/health-data
+        # quote: >
+        #   The Insight Health Data Science Fellowship is "an intensive 7-week program for PhDs and MDs leading to a career in health data science".
+        description: | # this will include new lines to allow paragraphs
+          Fellow at Insight Health Data Science, which is "an intensive 7-week program for PhDs and MDs leading to a career in health data science".
+          - Consulted for Therachat to build TheraPulse, a tool for predicting patients􏰀 symptom severity. 
+          - Produced an end-to-end solution from querying a MySQL database to modeling to webapp.
+          - Engineered 8 text-derived features using NLP tools in Python.
+          - Predicted patient distress ratings via SVM and random forest models with grid search HPO in sklearn.
+      - layout: center
+        title: Columbia University  
+        sub_title: Graduate Research Fellow in Neuroscience 
+        caption: August 2011 - May 2018  
+        link: https://neuroscience.columbia.edu
+        additional_links:
+          - title:  Axel Laboratory 
+            # icon: fab fa-linkedin
+            url: https://www.axellab.columbia.edu
+        # quote: >
+        #   The Insight Health Data Science Fellowship is "an intensive 7-week program for PhDs and MDs leading to a career in health data science".
+        description: | # this will include new lines to allow paragraphs
+          - Conceived and led a project that assessed olfactory behavior and neural responses to olfactory stimuli to uncover new roles for dopaminergic neurons in modulating innate and learned responses to odors 
+          - Wrote MATLAB programs for analysis of neural data to understand neural activity in memory circuits
+          - Imaged and analyzed neural activity in insect dopamine neurons in response to chemosensory stimuli
+          - Generated automated MATLAB tools and pipeline to recognize and analyze insect behavior
+      - layout: center
+        title: Columbia University Neuroscience Outreach
+        sub_title: Executive Board Member  
+        caption: November 2012 - January 2018  
+        link: https://cuno.zuckermaninstitute.columbia.edu/
+        # quote: >
+        #   The Insight Health Data Science Fellowship is "an intensive 7-week program for PhDs and MDs leading to a career in health data science".
+        description: | # this will include new lines to allow paragraphs
+          - Designed neuroscience outreach programming for middle and high school students and families
+          - Prepared budgets and grants to fund outreach activities
+          - Coordinated events with the American Museum of Natural History and the Dana Foundation 
+
   - title: Education
     layout: list
     content:
