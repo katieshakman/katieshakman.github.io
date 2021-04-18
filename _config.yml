@@ -54,9 +54,17 @@ github_username:  katieshakman
 about_profile_image: images/Katie_Snowshoe_Cropped_Small.jpg #Google Profile Picture.png #insight-headshot-linkedin-version.jpeg
 about_content: | # this will include new lines to allow paragraphs
  I'm a data scientist and engineer with a PhD in neuroscience and 3 years of experience in the data science and software industry.  
+
+
  I collaborate with data science teams to implement advanced solutions across a variety of domains. 
  I employ my skills in experimental design, problem solving, project management, analytics, machine learning, data visualization and technical communication 
  to deliver fast and high quality solutions to complex problems. 
+
+content: 
+- layout: text
+  title: Download Resume   
+        link: https://github.com/katieshakman/katieshakman.github.io/raw/main/images/Katie_Shakman_Resume_20210417.pdf # /images/Katie_Shakman_Resume_20210417.pdf # 
+        link_text: Click to Download Resume 
 
 
 content:
@@ -180,7 +188,7 @@ content:
       - layout: center
         title: Columbia University
         sub_title: PhD in Neuroscience 
-        caption: September 2011 - May 2018 
+        caption: May 2018 
 #         quote: >
 #           Department of Neuroscience, Columbia University in the City of New York
         description: | # this will include new lines to allow paragraphs
@@ -201,13 +209,13 @@ content:
 #     content: | # this will include new lines to allow paragraphs
 #       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
   
-  - title: Resume
-    layout: list
-    content: 
-      - layout: text
-        title: Download Resume   
-        link: https://github.com/katieshakman/katieshakman.github.io/raw/main/images/Katie_Shakman_Resume_20210417.pdf # /images/Katie_Shakman_Resume_20210417.pdf # 
-        link_text: Click to Download Resume 
+  # - title: Resume
+  #   layout: list
+  #   content: 
+  #     - layout: text
+  #       title: Download Resume   
+  #       link: https://github.com/katieshakman/katieshakman.github.io/raw/main/images/Katie_Shakman_Resume_20210417.pdf # /images/Katie_Shakman_Resume_20210417.pdf # 
+  #       link_text: Click to Download Resume 
         # content: |  # include new lines/paragraphs
         #   <embed src="/images/Katie_Shakman_Resume_20210417.pdf" type="application/pdf">
 # Resume ![Resume PDF](/images/Katie_Shakman_Resume_20210417.png)
