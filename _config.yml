@@ -63,7 +63,7 @@ content:
   - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: center  
         title: Programming Languages and Tools
         description: | # this will include new lines to allow paragraphs
           **Programming Languages and Tools**: Python\*, R, MATLAB\*, MongoDB\*, SQL, PyMongo, Bash, Pandas\*, Numpy, Ray, Spark, Seaborn, Scikit-learn*, Torch, Tensorflow/Keras, AWS\*, Unix\*, Docker, Kubernetes, Git
@@ -80,7 +80,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: center
+      - layout: center  
         title: Accelerating Model Training and Hyperparameter Optimization on Multiple Nvidia GPUs with Distributed Computing on Domino 
         link: https://www.dominodatalab.com/resources/how-janssen-r-d-accelerated-model-training-on-multi-gpu-machines-for-faster-cancer-cell-identification/
         link_text: How Janssen R&D Accelerated Model Training on Multi-GPU Machines for Faster Cancer Cell Identification
