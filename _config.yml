@@ -206,10 +206,10 @@ content:
     content: 
       - layout: text
         title: Download Resume   
-        # link: images/Katie_Shakman_Resume_20210417.pdf # https://github.com/katieshakman/katieshakman.github.io/raw/main/images/Katie_Shakman_Resume_20210417.pdf
-        # link text: Download Resume 
-        content: |  # include new lines/paragraphs
-          <embed src="/images/Katie_Shakman_Resume_20210417.pdf" type="application/pdf">
+        link: images/Katie_Shakman_Resume_20210417.pdf # https://github.com/katieshakman/katieshakman.github.io/raw/main/images/Katie_Shakman_Resume_20210417.pdf
+        link text: Download Resume 
+        # content: |  # include new lines/paragraphs
+        #   <embed src="/images/Katie_Shakman_Resume_20210417.pdf" type="application/pdf">
 # Resume ![Resume PDF](/images/Katie_Shakman_Resume_20210417.png)
 # <embed src="/images/Katie_Shakman_Resume_20210417.pdf" type="application/pdf">
 #          
