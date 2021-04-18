@@ -209,8 +209,9 @@ content:
         # link: images/Katie_Shakman_Resume_20210417.pdf # https://github.com/katieshakman/katieshakman.github.io/raw/main/images/Katie_Shakman_Resume_20210417.pdf
         # link text: Download Resume 
         content: | # this will include new lines to allow paragraphs
-          <embed src="/images/Katie_Shakman_Resume_20210417.pdf" type="application/pdf">
-#          Resume ![Resume PDF](/images/Katie_Shakman_Resume_20210417.pdf)
+          Resume ![Resume PDF](/images/Katie_Shakman_Resume_20210417.png)
+# <embed src="/images/Katie_Shakman_Resume_20210417.pdf" type="application/pdf">
+#          
 
 #       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
