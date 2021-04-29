@@ -106,15 +106,15 @@ content:
       - layout: center
         title: Therapulse - Predicting Patient Distress Levels  
 #         link: https://www.dominodatalab.com/resources/how-janssen-r-d-accelerated-model-training-on-multi-gpu-machines-for-faster-cancer-cell-identification/
-#         link_text: How Janssen R&D Accelerated Model Training on Multi-GPU Machines for Faster Cancer Cell Identification
+        link_text: Project is not public. Details available upon request.
 #         additional_links:
 #           - title:  Conference Talk LinkedIn Announcement 
 #             icon: fab fa-linkedin
 #             url: https://www.linkedin.com/posts/katherine-shakman_gtc20-computervision-jnjdatascience-activity-6720000143309074432-WmOl
         description: | 
           Consulted for Therachat, a company that helps therapists and patients connect in between talk therapy sessions.  I built TheraPulse, a tool for predicting patients’ symptom severity, using NLP, SVM, Random Forest, and grid search hyperparameter optimization.  The final product was a Dash web app which would predict a user's distress level for the following week.
-        quote: >
-          Project is not public.  Details available upon request.  
+        # quote: >
+        #   Project is not public.  Details available upon request.  
   
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
