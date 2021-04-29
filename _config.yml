@@ -80,6 +80,16 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: center
+        title: Streaming Online Learning on an Open Data Science Platform  
+        link: https://github.com/dominodatalab/streaming-online-learning
+        link_text: Online Learning Deployment for Streaming Applications Repository
+#         additional_links:
+#           - title:  Title
+#             icon: fab fa-linkedin
+#             url: link
+        description: | 
+          Built and benchmarked a proof of concept for online learning for streaming data in collaboration with colleagues and customer. 
       - layout: center  
         title: Accelerating Model Training and Hyperparameter Optimization on Multiple Nvidia GPUs with Distributed Computing on Domino 
         link: https://www.dominodatalab.com/resources/how-janssen-r-d-accelerated-model-training-on-multi-gpu-machines-for-faster-cancer-cell-identification/
