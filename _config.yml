@@ -117,16 +117,28 @@ content:
   
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
-    content:
+    content:       
+      - layout: center
+        title: Evidation Health
+        sub_title: Senior Health Data Scientist 
+        caption: August 2021 - December 2022
+        link: evidation.com
+#         quote: >
+#           Evidation empowers everyone to participate in health research.
+        description: | # this will include new lines to allow paragraphs
+          I collaborated on study design for research projects using wearable devices and real world data
+          -	Designed, authored, and executed complex statistical analysis plans for sponsored studies, coalescing input from various stakeholders to synthesize business objectives into an effective scientific approach 
+          -	Developed and integrated with data pipelines to query, clean, featurize, and model data from multiple sources in a variety of formats using SQL, Python, and R
+          -	Created compelling visualizations of results and communicated scientific and statistical methods, strategies, and results with both internal and external stakeholders in a variety of roles 
       - layout: center
         title: Domino Data Lab
         sub_title: Field Data Scientist 
-        caption: May 2020 - Present
+        caption: May 2020 - August 2021
         link: dominodatalab.com
 #         quote: >
 #           Domino's enterprise MLOps platform accelerates research, speeds model deployment, and increases collaboration for code-first data science teams at scale.
         description: | # this will include new lines to allow paragraphs
-          I partner with data scientists at our customers to assist with data science projects from end to end, in as much depth as is needed to ensure the success of their projects.  
+          I partnered with data scientists at our customers to assist with data science projects from end to end, in as much depth as is needed to ensure the success of their projects.  
           -	Co-conceived, piloted, and built out the data science advisory team within professional services. 
           -	Collaborated on implementation and optimization of a distributed deep learning model for tumor detection in whole slide images, resulting in a conference talk at Nvidia GTC 2020.
           -	Contributed design and implementation of a solution for online ML from streams. 
