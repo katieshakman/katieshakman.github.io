@@ -126,7 +126,7 @@ content:
 #         quote: >
 #           Evidation empowers everyone to participate in health research.
         description: | # this will include new lines to allow paragraphs
-          I collaborated on study design for research projects using wearable devices and real world data
+          I designed and delivered statistical analysies for research projects using wearable devices and real world data to improve our understanding of symptoms and health outcomes
           -	Designed, authored, and executed complex statistical analysis plans for sponsored studies, coalescing input from various stakeholders to synthesize business objectives into an effective scientific approach 
           -	Developed and integrated with data pipelines to query, clean, featurize, and model data from multiple sources in a variety of formats using SQL, Python, and R
           -	Created compelling visualizations of results and communicated scientific and statistical methods, strategies, and results with both internal and external stakeholders in a variety of roles 
